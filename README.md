@@ -1,6 +1,6 @@
 # bioinformatics-resources
 
-Useful bioinformatics resources, collected from diverse sources (blogs, twitter, etc...). Might make a nice browsable page in the future, for now I just this rendered README file on github.
+Useful bioinformatics resources, collected from diverse sources (blogs, twitter, etc...). Might make a nice browsable page in the future, for now I just use this rendered README file on github.
 
 ## Data visualization
 
