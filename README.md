@@ -22,6 +22,7 @@ Useful bioinformatics resources, collected from diverse sources (blogs, twitter,
 ## Plant genome resources
 
 * [*Arabidopsis* long read genomes](https://www.biorxiv.org/content/10.1101/2024.12.23.629943v2.abstract)
+* [Plant genomics tool overview](https://github.com/bpucker/ToolOverview), with associated [preprint](https://www.preprints.org/manuscript/202402.0645/v1)
 
 ## Data management
 
