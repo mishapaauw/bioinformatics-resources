@@ -6,6 +6,8 @@ Useful bioinformatics resources, collected from diverse sources (blogs, twitter,
 
 * [tidyplots](https://jbengler.github.io/tidyplots/index.html)
 * [tidyheatmaps](https://jbengler.github.io/tidyheatmaps/index.html)
+* [Practical considerations for data exploration in quantitative cell biology](https://journals.biologists.com/jcs/article/138/7/jcs263801/367617/Practical-considerations-for-data-exploration-in)
+*[From zero to figure hero. A checklist for designing scientific data visualizations](https://arxiv.org/abs/2408.16007)
 
 ## Genome browsers
 
