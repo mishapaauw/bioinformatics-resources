@@ -19,6 +19,7 @@ Useful bioinformatics resources, collected from diverse sources (blogs, twitter,
 * [vcf2GWAS](https://academic.oup.com/bioinformatics/article/38/3/839/6390796)
 * [Deeptools](https://deeptools.readthedocs.io/en/latest/) Python fastq mapping visualization (See also [scPlants workshop material](https://colab.research.google.com/gist/maschon0/1021e74784527015d442b625585b4ef5/scplants_practical_0.ipynb#scrollTo=2hwc_B1Vz3PY))
 * [Tips for running nextflow on HPC](https://gencore.bio.nyu.edu/nextflow-nf-core-on-nyu-hpc/)
+* [Plotting SRA NCBI data size](https://pascal-martin.netlify.app/post/plotting-sra-database-growth/)
 
 
 ## Plant genome resources
