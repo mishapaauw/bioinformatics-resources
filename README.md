@@ -1,6 +1,6 @@
 # bioinformatics-resources
 
-Useful bioinformatics resources, collected from diverse sources (blogs, twitter, etc...). Might make a nice browsable page in the future, for now I just use this rendered README file on github.
+Useful bioinformatics resources, collected from diverse sources (blogs, Bluesky, papers, etc...). Might make a nice browsable page in the future, for now I just use this rendered README file on github.
 
 ## Data visualization
 
@@ -16,10 +16,14 @@ Useful bioinformatics resources, collected from diverse sources (blogs, twitter,
 ## Bioinformatics and unix scripting
 
 * [Six glorious unix commands](https://astrobiomike.github.io/unix/six-glorious-commands)
-* [vcf2GWAS](https://academic.oup.com/bioinformatics/article/38/3/839/6390796)
+* [Todos Santon computational biology workshop (1 week)](https://dbsloan.github.io/TS2019/)
 * [Deeptools](https://deeptools.readthedocs.io/en/latest/) Python fastq mapping visualization (See also [scPlants workshop material](https://colab.research.google.com/gist/maschon0/1021e74784527015d442b625585b4ef5/scplants_practical_0.ipynb#scrollTo=2hwc_B1Vz3PY))
 * [Tips for running nextflow on HPC](https://gencore.bio.nyu.edu/nextflow-nf-core-on-nyu-hpc/)
 * [Plotting SRA NCBI data size](https://pascal-martin.netlify.app/post/plotting-sra-database-growth/)
+
+## GWAS
+
+* [vcf2GWAS](https://academic.oup.com/bioinformatics/article/38/3/839/6390796)
 
 
 ## Plant genome resources
