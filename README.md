@@ -9,6 +9,7 @@ Useful bioinformatics resources, collected from diverse sources (blogs, Bluesky,
 * [Practical considerations for data exploration in quantitative cell biology](https://journals.biologists.com/jcs/article/138/7/jcs263801/367617/Practical-considerations-for-data-exploration-in)
 * [From zero to figure hero. A checklist for designing scientific data visualizations](https://arxiv.org/abs/2408.16007)
 * [vayr](https://alexandercoppock.com/vayr/): `position_sunflower` for visualizing count data (e.g. number of infected hydathodes)
+* [Slidecrafting with Quarto](https://slidecrafting-book.com)
 
 ## Genome browsers
 
@@ -42,9 +43,10 @@ Useful bioinformatics resources, collected from diverse sources (blogs, Bluesky,
 
 * [seabreeze](https://joss.theoj.org/papers/10.21105/joss.08065.pdf): analyzing structural variation between bacterial genome assemblies
 
-## Statistics
+## Statistics and experimental design
 
 * [A reckless guide to p-values](https://link.springer.com/chapter/10.1007/164_2019_286)
+* [Thoughtful experimental desing in the omics era](https://www.nature.com/articles/s41467-025-62616-x)
 
 ## Data management
 
