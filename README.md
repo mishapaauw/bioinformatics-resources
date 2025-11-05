@@ -20,6 +20,7 @@ Useful bioinformatics resources, collected from diverse sources (blogs, Bluesky,
 * [Todos Santon computational biology workshop (1 week)](https://dbsloan.github.io/TS2019/)
 * [Plotting SRA NCBI data size](https://pascal-martin.netlify.app/post/plotting-sra-database-growth/)
 * [Deeptools](https://deeptools.readthedocs.io/en/latest/) Python fastq mapping visualization (See also [scPlants workshop material](https://colab.research.google.com/gist/maschon0/1021e74784527015d442b625585b4ef5/scplants_practical_0.ipynb#scrollTo=2hwc_B1Vz3PY))
+* [Finding overrepresented taxa in microbiome data](https://github.com/feargalr/TaxSEA)
 
 ## Pipeline tools
 
