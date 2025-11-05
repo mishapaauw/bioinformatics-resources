@@ -15,14 +15,22 @@ Useful bioinformatics resources, collected from diverse sources (blogs, Bluesky,
 
 * [JBrowse](https://jbrowse.org/jb2/download/#rshiny-widget) and [JBrowseR](https://gmod.org/JBrowseR/articles/JBrowseR.html)
 
-## Bioinformatics and unix scripting
+## Bioinformatics 
+
+* [Todos Santon computational biology workshop (1 week)](https://dbsloan.github.io/TS2019/)
+* [Plotting SRA NCBI data size](https://pascal-martin.netlify.app/post/plotting-sra-database-growth/)
+* [Deeptools](https://deeptools.readthedocs.io/en/latest/) Python fastq mapping visualization (See also [scPlants workshop material](https://colab.research.google.com/gist/maschon0/1021e74784527015d442b625585b4ef5/scplants_practical_0.ipynb#scrollTo=2hwc_B1Vz3PY))
+
+## Pipeline tools
+
+* [Tips for running nextflow on HPC](https://gencore.bio.nyu.edu/nextflow-nf-core-on-nyu-hpc/)
+* [Snakemake tutorial](https://farm.cse.ucdavis.edu/~ctbrown/2023-snakemake-book-draft/chapter_3.html) from UCDavis.
+
+## Terminal commands tutorials
 
 * [Six glorious unix commands](https://astrobiomike.github.io/unix/six-glorious-commands)
-* [Todos Santon computational biology workshop (1 week)](https://dbsloan.github.io/TS2019/)
-* [Deeptools](https://deeptools.readthedocs.io/en/latest/) Python fastq mapping visualization (See also [scPlants workshop material](https://colab.research.google.com/gist/maschon0/1021e74784527015d442b625585b4ef5/scplants_practical_0.ipynb#scrollTo=2hwc_B1Vz3PY))
-* [Tips for running nextflow on HPC](https://gencore.bio.nyu.edu/nextflow-nf-core-on-nyu-hpc/)
-* [Plotting SRA NCBI data size](https://pascal-martin.netlify.app/post/plotting-sra-database-growth/)
-* [Snakemake tutorial](https://farm.cse.ucdavis.edu/~ctbrown/2023-snakemake-book-draft/chapter_3.html) from UCDavis.
+* [Sandbox tutorial: terminal basics](https://sandbox.bio/tutorials/terminal-basics)
+* [Sandbox tutorial: DNA quality control and trimming](https://sandbox.bio/tutorials/fastp-intro)
 
 ## GWAS
 
