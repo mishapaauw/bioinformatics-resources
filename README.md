@@ -21,6 +21,7 @@ Useful bioinformatics resources, collected from diverse sources (blogs, Bluesky,
 * [Plotting SRA NCBI data size](https://pascal-martin.netlify.app/post/plotting-sra-database-growth/)
 * [Deeptools](https://deeptools.readthedocs.io/en/latest/) Python fastq mapping visualization (See also [scPlants workshop material](https://colab.research.google.com/gist/maschon0/1021e74784527015d442b625585b4ef5/scplants_practical_0.ipynb#scrollTo=2hwc_B1Vz3PY))
 * [Finding overrepresented taxa in microbiome data](https://github.com/feargalr/TaxSEA)
+* [Another repository with bioinformatics tips and tricks](https://github.com/mbhall88/notes)
 
 ## Pipeline tools
 
@@ -32,6 +33,10 @@ Useful bioinformatics resources, collected from diverse sources (blogs, Bluesky,
 * [Six glorious unix commands](https://astrobiomike.github.io/unix/six-glorious-commands)
 * [Sandbox tutorial: terminal basics](https://sandbox.bio/tutorials/terminal-basics)
 * [Sandbox tutorial: DNA quality control and trimming](https://sandbox.bio/tutorials/fastp-intro)
+
+## Synteny tools
+
+* [SyntenyQC](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf626/8322724): extension for Clinker to remove redundant genbank files or trim genbank files.
 
 ## GWAS
 
@@ -45,12 +50,15 @@ Useful bioinformatics resources, collected from diverse sources (blogs, Bluesky,
 * [Potato pangenome](https://www.nature.com/articles/s41586-025-08843-0)
 * [Tomato pangenome](https://www.nature.com/articles/s41588-023-01340-y)
 * [Many more plant pangenomes](https://www.nature.com/articles/s41576-024-00691-4)
+* [CuGenDBv2](http://www.cucurbitgenomics.org/v2/): Cucurbit genetics website
 * [Major orthofinder upgrade](https://bsky.app/profile/lauriebelch.bsky.social/post/3lu3y7blig22j)
-
 
 ## Bacterial genome analysis
 
 * [seabreeze](https://joss.theoj.org/papers/10.21105/joss.08065.pdf): analyzing structural variation between bacterial genome assemblies
+* [progenomes4](https://progenomes.embl.de/index.cgi): collection of 2M consistently annotated bacterial genomes - [Fullam et al 2025](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1208/8328542)
+* [PIPdb](https://nmdc.cn/pipdb/): Plasmids in Pathogens database. However, no plant pathogens were analyzed. - [Zhu et al 2024](https://academic.oup.com/nar/article/53/D1/D169/7845172)
+* [geNomad](https://www.nature.com/articles/s41587-023-01953-y): plasmid and phage MGE identification - [github](https://github.com/apcamargo/genomad)
 
 ## Statistics and experimental design
 
