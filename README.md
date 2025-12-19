@@ -59,6 +59,7 @@ Useful bioinformatics resources, collected from diverse sources (blogs, Bluesky,
 * [progenomes4](https://progenomes.embl.de/index.cgi): collection of 2M consistently annotated bacterial genomes - [Fullam et al 2025](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1208/8328542)
 * [PIPdb](https://nmdc.cn/pipdb/): Plasmids in Pathogens database. However, no plant pathogens were analyzed. - [Zhu et al 2024](https://academic.oup.com/nar/article/53/D1/D169/7845172)
 * [geNomad](https://www.nature.com/articles/s41587-023-01953-y): plasmid and phage MGE identification - [github](https://github.com/apcamargo/genomad)
+* [LoVis4U](https://academic.oup.com/nargab/article/7/1/lqaf009/8039213?login=true): another synteny visualization tool like Clinker
 
 ## Statistics and experimental design
 
