@@ -61,6 +61,10 @@ Useful bioinformatics resources, collected from diverse sources (blogs, Bluesky,
 * [geNomad](https://www.nature.com/articles/s41587-023-01953-y): plasmid and phage MGE identification - [github](https://github.com/apcamargo/genomad)
 * [LoVis4U](https://academic.oup.com/nargab/article/7/1/lqaf009/8039213?login=true): another synteny visualization tool like Clinker
 
+## Metabolomics 
+
+* [blog post on untargetted metabolomics data analysis](https://www.intechopen.com/chapters/52527)
+
 ## Statistics and experimental design
 
 * [A reckless guide to p-values](https://link.springer.com/chapter/10.1007/164_2019_286)
