@@ -10,11 +10,7 @@ Useful bioinformatics resources, collected from diverse sources (blogs, Bluesky,
 * [From zero to figure hero. A checklist for designing scientific data visualizations](https://arxiv.org/abs/2408.16007)
 * [vayr](https://alexandercoppock.com/vayr/): `position_sunflower` for visualizing count data (e.g. number of infected hydathodes)
 * [Slidecrafting with Quarto](https://slidecrafting-book.com)
-* [Placing labels using relative locations in ggplot2](https://bsky.app/profile/mattansb.msbstats.info/post/3mauq5anv3s25)
-
-```R
-annotate("text", x = I(.5), y = I(.5), label = "hello!") 
-```
+* [Placing labels using relative locations in ggplot2](https://bsky.app/profile/mattansb.msbstats.info/post/3mauq5anv3s25): `annotate("text", x = I(.5), y = I(.5), label = "hello!")`
 
 ## Genome browsers
 
