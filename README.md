@@ -11,6 +11,7 @@ Useful bioinformatics resources, collected from diverse sources (blogs, Bluesky,
 * [vayr](https://alexandercoppock.com/vayr/): `position_sunflower` for visualizing count data (e.g. number of infected hydathodes)
 * [Slidecrafting with Quarto](https://slidecrafting-book.com)
 * [Placing labels using relative locations in ggplot2](https://bsky.app/profile/mattansb.msbstats.info/post/3mauq5anv3s25): `annotate("text", x = I(.5), y = I(.5), label = "hello!")`
+* [The Visual Display of Quantitative Information by Edward R. Tufte.](https://kyl.neocities.org/books/%5BTEC%20TUF%5D%20the%20visual%20display%20of%20quantitative%20information.pdf) (`.pdf`)
 
 ## Genome browsers
 
